@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teeko-game/static/css/main.86b1b8a1.chunk.css",
+    "main.js": "/teeko-game/static/js/main.d5982966.chunk.js",
+    "main.js.map": "/teeko-game/static/js/main.d5982966.chunk.js.map",
+    "runtime-main.js": "/teeko-game/static/js/runtime-main.fb2ca7ea.js",
+    "runtime-main.js.map": "/teeko-game/static/js/runtime-main.fb2ca7ea.js.map",
+    "static/js/2.e2c8829a.chunk.js": "/teeko-game/static/js/2.e2c8829a.chunk.js",
+    "static/js/2.e2c8829a.chunk.js.map": "/teeko-game/static/js/2.e2c8829a.chunk.js.map",
+    "index.html": "/teeko-game/index.html",
+    "precache-manifest.efdc03848d0ff356e693b6d9ffaf4367.js": "/teeko-game/precache-manifest.efdc03848d0ff356e693b6d9ffaf4367.js",
+    "service-worker.js": "/teeko-game/service-worker.js",
+    "static/css/main.86b1b8a1.chunk.css.map": "/teeko-game/static/css/main.86b1b8a1.chunk.css.map",
+    "static/js/2.e2c8829a.chunk.js.LICENSE.txt": "/teeko-game/static/js/2.e2c8829a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb2ca7ea.js",
+    "static/js/2.e2c8829a.chunk.js",
+    "static/css/main.86b1b8a1.chunk.css",
+    "static/js/main.d5982966.chunk.js"
+  ]
+}
