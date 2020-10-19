@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teeko-game/precache-manifest.efdc03848d0ff356e693b6d9ffaf4367.js"
+  "/teeko-game/precache-manifest.d5cf30eb34d982b492c2b73cf7223fee.js"
 );
 
 self.addEventListener('message', (event) => {

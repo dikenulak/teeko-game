@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6492fd29168331097598fa4f2d6418c",
+    "revision": "13a7f9f441cc75bcd0bbf5e14ac70120",
     "url": "/teeko-game/index.html"
   },
   {
